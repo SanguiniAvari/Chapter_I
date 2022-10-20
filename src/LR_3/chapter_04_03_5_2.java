@@ -13,20 +13,23 @@ public class chapter_04_03_5_2 {
         int sum =0;
         int i=0;
         int k=0;
+        //Заполняю массив случаными аргументами
         Random random = new Random();
         while(i<Arr.length){
             Arr[i]=random.nextInt(200);
             i++;
         }
+        //Обнуляю счетчик, проверяю элементы на соответствие, вывожу значения, удовлетворяющие результатом
         i = 0;
         while(i<Arr.length) {
             if (Arr[i] % 5 == 2 || Arr[i] % 3 == 1) {
                 viborka[j] = Arr[i];
                 System.out.println(viborka[j]);
                 j++;
-                i++;
             }
+            i++;
         }
+        // Собираю сумму значений в переменную
         while(k<viborka.length){
             sum = sum+viborka[k];
             k++;
