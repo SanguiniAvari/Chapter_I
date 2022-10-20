@@ -1,3 +1,5 @@
+package LR_3;
+
 import java.util.Scanner;
 
     public class chapter_04_03_4_1 {
