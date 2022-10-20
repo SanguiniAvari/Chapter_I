@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="71d43928-8f1f-416f-adc2-f8246bee1035" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LR.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter_04_03_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter_04_03_2_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter_04_03_2_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter_04_03_3_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter_04_03_3_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter_04_03_3_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter_04_03_4_1.java" afterDir="false" />
-    </list>
+    <list default="true" id="71d43928-8f1f-416f-adc2-f8246bee1035" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,9 +44,18 @@
       <option name="presentableId" value="Default" />
       <updated>1666278223964</updated>
     </task>
+    <task id="LOCAL-00001" summary="Yeah">
+      <created>1666279451008</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666279451008</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="Yeah" />
+    <option name="LAST_COMMIT_MESSAGE" value="Yeah" />
   </component>
 </project>
