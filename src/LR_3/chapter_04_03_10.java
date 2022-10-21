@@ -1,7 +1,8 @@
 package LR_3;
+
 import java.util.*;
 
-public class chapter_04_03_10_1 {
+public class chapter_04_03_10 {
     public static void main(String[] args) {
         try {
             Scanner Scanner = new Scanner(System.in);
@@ -30,14 +31,23 @@ public class chapter_04_03_10_1 {
                         System.out.print(j + "\t");
                     }
                 }
-                System.out.print("\n");
-                System.out.println("Выводим отсортированный массив средствами библиотеки util:");
 
                 //сортировка
 
+                int[] arr2 = Arrays.stream(arr)
+                        .boxed()
+                        .sorted(Collections.reverseOrder())
+                        .mapToInt(Integer::intValue)
+                        .toArray();
+
+                //вывод массива
+
+                System.out.print("\n");
+                System.out.println("Выводим отсортированный массив");
+
                 System.out.print("[");
-                for(int i=0;i<arr.length;i++){
-                    System.out.print(arr[i] + "; ");
+                for(int i=0;i<arr2.length;i++){
+                    System.out.print(arr2[i] + "; ");
                 }
                 System.out.println("\b\b]");
             }
