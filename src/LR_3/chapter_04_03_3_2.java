@@ -12,10 +12,6 @@ public class chapter_04_03_3_2 {
         while (i < num){
             switch (i){
                 case(0):
-                    arr[i]=1;
-                    System.out.println(arr[i]);
-                    i++;
-                    break;
                 case (1):
                     arr[i]=1;
                     System.out.println(arr[i]);
