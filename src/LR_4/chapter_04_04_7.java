@@ -3,13 +3,12 @@ package LR_4;
 public class chapter_04_04_7 {
     public static void main(String[] args) {
         int[][] Arr = new int[7][14];
-        int i = 0;
         int j = 0;
         int q = 0;
         int temp = 0;
         int count = 0;
 
-        for (;i < Arr.length; i++){
+        for (int i = 0;i < Arr.length; i++){
             j =0;
             while (j < Arr[i].length){
                 if (Arr[i][j] == 0){
