@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71d43928-8f1f-416f-adc2-f8246bee1035" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/LR_4/chapter_04_04_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LR_4/chapter_04_04_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR_5/chapte_04_05_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TIMUS/chapter_04_01_1014.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LR_4/chapter_04_04_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LR_4/chapter_04_04_6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -232,7 +236,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666885669346</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="LR 4">
+      <created>1666886383448</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1666886383448</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -249,6 +260,10 @@
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.util.InputMismatchException" package="java.util" />
           <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="4" />
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>

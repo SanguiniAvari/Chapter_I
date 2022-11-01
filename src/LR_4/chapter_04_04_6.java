@@ -32,18 +32,14 @@ public class chapter_04_04_6 {
             if(i==row){
                 q = q - 1;
             }else {
-                if (q== ArrChen.length){
+                if (q == ArrChen.length){
 
                 } else {
                     for (int j = 0; j < Arr[i].length; j++, r++) {
                         if(j==line){
                             r = r - 1;
                         }else {
-                            if(r == ArrChen.length){
-
-                            }else {
-                                ArrChen[q][r] = Arr[i][j];
-                            }
+                                 ArrChen[q][r] = Arr[i][j];
                         }
                     }
 
