@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71d43928-8f1f-416f-adc2-f8246bee1035" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LR_5/chapte_04_05_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TIMUS/chapter_04_01_1014.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR_5/chapter_04_05_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR_5/chapter_04_05_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR_5/chapter_04_05_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR_5/chapter_04_05_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR_5/chapter_04_05_6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR_4/chapter_04_04_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LR_4/chapter_04_04_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LR_5/chapte_04_05_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LR_5/chapter_04_05_1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -243,7 +245,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666886383448</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="ИСПРАВЛЕНО">
+      <created>1667331291488</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1667331291488</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -252,7 +261,8 @@
     <MESSAGE value="LR 1" />
     <MESSAGE value="LR" />
     <MESSAGE value="LR 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="LR 4" />
+    <MESSAGE value="ИСПРАВЛЕНО" />
+    <option name="LAST_COMMIT_MESSAGE" value="ИСПРАВЛЕНО" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
