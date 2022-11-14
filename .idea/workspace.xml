@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="71d43928-8f1f-416f-adc2-f8246bee1035" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LR_5/chapter_04_05_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR_5/chapter_04_05_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR_5/chapter_04_05_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR_5/chapter_04_05_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR_5/chapter_04_05_6.java" afterDir="false" />
+    <list default="true" id="71d43928-8f1f-416f-adc2-f8246bee1035" name="Changes" comment="лабораторная работа 5">
+      <change afterPath="$PROJECT_DIR$/src/LR_6/chapter_04_06_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TIMUS/chapter_04_01_1592.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR_5/chapte_04_05_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LR_5/chapter_04_05_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LR_3/chapter_04_03_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LR_3/chapter_04_03_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TIMUS/chapter_04_01_1014.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -252,7 +250,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667331291488</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="лабораторная работа 5">
+      <created>1667491554548</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1667491554548</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -262,7 +267,8 @@
     <MESSAGE value="LR" />
     <MESSAGE value="LR 4" />
     <MESSAGE value="ИСПРАВЛЕНО" />
-    <option name="LAST_COMMIT_MESSAGE" value="ИСПРАВЛЕНО" />
+    <MESSAGE value="лабораторная работа 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="лабораторная работа 5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -275,6 +281,11 @@
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
           <option name="timeStamp" value="4" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LR_6/chapter_04_06_1.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>

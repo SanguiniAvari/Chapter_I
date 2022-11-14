@@ -1,8 +1,7 @@
 package LR_3;
 
-import java.util.Scanner;
-import java.util.Random;
 import java.util.InputMismatchException;
+import java.util.Scanner;
 
 public class chapter_04_03_6 {
     public static void main(String[] args) {
@@ -15,8 +14,7 @@ public class chapter_04_03_6 {
                 System.out.println("Размер массива меньше или равен нулю.");
             } else {
                 int[] Arr = new int[Size];
-                //Заполняем массив
-                Random random = new Random();
+                //Random random = new Random();
                 int j=0;
                 for(int i=0;i<Arr.length;i++) {
                     if (i % 5 == 2) {
