@@ -2,6 +2,7 @@ package LR_6;
 
 public class chapter_04_06_4_1 {
     public static void main(String[] args) {
+        System.out.println("Решение реализовано без рекурсии");
         System.out.println("Запрашиваем 5!!:");
         forFactorial.doubleFactorialCall(5);
         System.out.println("Запрашиваем 6!!:");
