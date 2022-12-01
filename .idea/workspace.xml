@@ -1,34 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="71d43928-8f1f-416f-adc2-f8246bee1035" name="Changes" comment="лабораторная работа 6">
-      <change afterPath="$PROJECT_DIR$/src/LR_7/task1/chapter_04_07_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR_7/task1/subClassTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR_7/task1/superClassTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR_7/task2/chapter_04_07_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR_7/task2/subCHAP_07_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR_7/task2/superCHAP_07_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR_7/task3/chapter_04_07_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR_7/task3/subCAHP_07_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR_7/task3/subSUBcahp_07_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR_7/task3/superCHAP_07_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR_7/task4/chapter_04_07_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR_7/task4/subCHAP_07_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR_7/task4/subSUBchap_07_04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR_7/task4/superCHAP_07_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR_7/task5/SUB1_CHAP_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR_7/task5/SUB2_CHAP_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR_7/task5/chapter_04_07_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR_7/task5/superCHAP_04_07_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TIMUS/T_04_1000.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TIMUS/T_04_1264.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TIMUS/T_04_1785.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TIMUS/T_04_1787.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TIMUS/T_04_1820.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TIMUS/T_04_2001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TIMUS/T_04_2066.java" afterDir="false" />
+    <list default="true" id="71d43928-8f1f-416f-adc2-f8246bee1035" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/LR_8/chapter_04_08_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR_8/chapter_04_08_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR_8/chapter_04_08_3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TIMUS/chapter_04_01_1592.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -349,7 +326,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668593650035</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="лабораторная работа 7">
+      <created>1669810575727</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1669810575727</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -361,7 +345,8 @@
     <MESSAGE value="ИСПРАВЛЕНО" />
     <MESSAGE value="лабораторная работа 5" />
     <MESSAGE value="лабораторная работа 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="лабораторная работа 6" />
+    <MESSAGE value="лабораторная работа 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="лабораторная работа 7" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
