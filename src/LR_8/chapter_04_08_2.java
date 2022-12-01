@@ -11,7 +11,7 @@ public class chapter_04_08_2 {
         while (true){
             int oneByte = in.read();
             if (oneByte != -1){
-                System.out.print((char)oneByte);
+                System.out.print(oneByte + "\t");
             } else {
                 System.out.println("\n"+"end");
                 break;

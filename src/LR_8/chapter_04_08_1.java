@@ -11,7 +11,7 @@ public class chapter_04_08_1 {
                 System.out.println("Успех!");
                 System.out.println("Полный путь 1: "+f1.getAbsolutePath());
             }
-            File f2 = new File("C:\\MyFile2.txt");
+            File f2 = new File("C:\\TMP\\Chapter_04_08_1.txt");
             f2.createNewFile();
             System.out.println("Полный путь 2: "+f2.getAbsolutePath());
 

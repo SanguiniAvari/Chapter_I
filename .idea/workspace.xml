@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71d43928-8f1f-416f-adc2-f8246bee1035" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LR_8/chapter_04_08_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR_8/chapter_04_08_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR_8/chapter_04_08_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR_8/chapter_04_08_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR_8/chapter_04_08_5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LR_8/chapter_04_08_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LR_8/chapter_04_08_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LR_8/chapter_04_08_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LR_8/chapter_04_08_2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -333,7 +334,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669810575727</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="лабораторная работа 8">
+      <created>1669859644144</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1669859644144</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -346,7 +354,8 @@
     <MESSAGE value="лабораторная работа 5" />
     <MESSAGE value="лабораторная работа 6" />
     <MESSAGE value="лабораторная работа 7" />
-    <option name="LAST_COMMIT_MESSAGE" value="лабораторная работа 7" />
+    <MESSAGE value="лабораторная работа 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="лабораторная работа 8" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
