@@ -24,7 +24,7 @@ public class chapter_04_08_5 {
             dOut.flush();
                 dOut.close();
                 DataInputStream dIn = new DataInputStream(new FileInputStream(f1));
-                while (true) {
+                while(true) {
                     System.out.println(dIn.readUTF());
                 }
         } catch (Exception e) {
