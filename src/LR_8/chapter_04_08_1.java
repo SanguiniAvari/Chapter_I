@@ -15,6 +15,14 @@ public class chapter_04_08_1 {
             f2.createNewFile();
             System.out.println("Полный путь 2: "+f2.getAbsolutePath());
 
+            f2 = new File("C:\\TMP\\TASK_1.txt");
+            f2.createNewFile();
+            System.out.println("Полный путь 2: "+f2.getAbsolutePath());
+
+            f2 = new File("C:\\TMP\\TASK_3.txt");
+            f2.createNewFile();
+            System.out.println("Полный путь 2: "+f2.getAbsolutePath());
+
             File f3 = new File("C:\\TMP\\LR_8\\TASK_1");
             f3.mkdirs();
             System.out.println("Полный путь 3: "+f3.getAbsolutePath());
