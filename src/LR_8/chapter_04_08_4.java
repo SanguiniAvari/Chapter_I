@@ -8,14 +8,14 @@ public class chapter_04_08_4 {
         try{
             File ftmp = new File("C:\\TMP");
             ftmp.mkdirs();
-            ftmp = new File("C:\\TMP\\chapter_04_08_4(reading).txt"); //для красоты берем свой формат
+            ftmp = new File("C:\\TMP\\TASK_1.txt");
             ftmp.createNewFile();
-            ftmp = new File("C:\\TMP\\chapter_04_08_4(writing).txt"); //для красоты берем свой формат
+            ftmp = new File("C:\\TMP\\TASK_2.txt");
             ftmp.createNewFile();
 
-            Scanner sc = new Scanner(System.in, "cp1251");
+            Scanner sc = new Scanner(System.in, "UTF-8");
 
-            DataOutputStream wr = new DataOutputStream(new FileOutputStream("C:\\TMP\\chapter_04_08_4(reading).txt"));
+            DataOutputStream wr = new DataOutputStream(new FileOutputStream("C:\\TMP\\TASK_2.txt"));
             System.out.println("Сколько вещественных чисел записать в файл?");
             int count = sc.nextInt();
 
@@ -26,8 +26,8 @@ public class chapter_04_08_4 {
             wr.flush();
             wr.close();
 
-            DataInputStream rd = new DataInputStream(new FileInputStream("C:\\TMP\\chapter_04_08_4(reading).txt"));
-            wr = new DataOutputStream(new FileOutputStream("C:\\TMP\\chapter_04_08_4(writing).txt"));
+            DataInputStream rd = new DataInputStream(new FileInputStream("C:\\TMP\\TASK_1.txt"));
+            wr = new DataOutputStream(new FileOutputStream("C:\\TMP\\TASK_3.txt"));
 
             try{
                 while (true){

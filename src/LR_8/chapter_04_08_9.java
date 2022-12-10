@@ -8,7 +8,7 @@ public class chapter_04_08_9 {
         BufferedWriter bw = null;
         try {
             br = new BufferedReader(new InputStreamReader(new FileInputStream("C:\\TMP\\TASK_1.txt"),"cp1251"));
-            bw = new BufferedWriter(new OutputStreamWriter(new FileOutputStream("C:\\TMP\\TASK_5.txt"),"cp1251"));
+            bw = new BufferedWriter(new OutputStreamWriter(new FileOutputStream("C:\\TMP\\TASK_3.txt"),"cp1251"));
             int lineCount = 0;
             String s;
             while ((s = br.readLine()) != null){

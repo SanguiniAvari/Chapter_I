@@ -7,8 +7,8 @@ public class chapter_04_08_7 {
         BufferedReader br = null;
         BufferedWriter out = null;
         try{
-            br = new BufferedReader(new FileReader("C:\\TMP\\LR_8\\TASK_1.txt"),1024);
-            out = new BufferedWriter(new FileWriter("C:\\TMP\\LR_8\\TASK_2.txt"));
+            br = new BufferedReader(new FileReader("C:\\TMP\\TASK_1.txt"),1024);
+            out = new BufferedWriter(new FileWriter("C:\\TMP\\TASK_2.txt"));
 
             int lineCount = 0;
             String s;

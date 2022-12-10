@@ -8,7 +8,7 @@ public class chapter_04_08_8 {
         while (true){
             int oneByte = in.read();
             if (oneByte != -1){
-                System.out.println((char)oneByte);
+                System.out.print((char)oneByte);
             } else {
                 System.out.println("\n" + " конец ");
                 break;
@@ -18,7 +18,7 @@ public class chapter_04_08_8 {
 
     public static void main(String[] args) {
         try{
-            InputStream inFile = new FileInputStream("C:\\TMP\\LR_8\\TASK_1.txt");
+            InputStream inFile = new FileInputStream("C:\\TMP\\TASK_5.txt");
             Reader rFile = new InputStreamReader(inFile,"cp1251");
             readAllByByte(rFile);
             System.out.print("\n\n\n");
@@ -33,7 +33,7 @@ public class chapter_04_08_8 {
             inUrl.close();
             rUrl.close();
 
-            InputStream inArray = new ByteArrayInputStream(new byte[]{5,8,3,9,11});
+            InputStream inArray = new ByteArrayInputStream(new byte[]{79,80,81,82,83});
             Reader rArray = new InputStreamReader(inArray, "cp1251");
 
             readAllByByte(rArray);

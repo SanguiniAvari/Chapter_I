@@ -11,7 +11,7 @@ public class chapter_04_08_2 {
         while (true){
             int oneByte = in.read();
             if (oneByte != -1){
-                System.out.print(oneByte + "\t");
+                System.out.print((char)oneByte);
             } else {
                 System.out.println("\n"+"end");
                 break;
@@ -20,17 +20,17 @@ public class chapter_04_08_2 {
     }
     public static void main(String[] args) throws IOException {
         try{
-            InputStream inFile = new FileInputStream("MyFile1.txt");
+            InputStream inFile = new FileInputStream("C:\\TMP\\TASK_1.txt");
             readAllByByte(inFile);
             System.out.print("\n\n\n");
             inFile.close();
 
-            InputStream inUrl = new URL("http://google.com").openStream();
+            InputStream inUrl = new URL("https://google.com/").openStream();
             readAllByByte(inUrl);
             System.out.print("\n\n\n");
             inUrl.close();
 
-            InputStream inArray = new ByteArrayInputStream(new byte[]{7,9,3,7,4});
+            InputStream inArray = new ByteArrayInputStream(new byte[]{59,60,61,62,63});
             readAllByByte(inArray);
             System.out.print("\n\n\n");
             inArray.close();

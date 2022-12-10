@@ -21,7 +21,7 @@ public class chapter_04_08_3 {
     }
 
     public static void main(String[] args) throws IOException{
-        String fileName = "MyFile1.txt";
+        String fileName = "C:\\TMP\\TASK_1.txt";
         InputStream inFile = null;
         try{
             inFile = new FileInputStream(fileName);

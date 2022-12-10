@@ -7,7 +7,7 @@ public class chapter_04_08_10 {
         BufferedReader br = null;
         PrintWriter Out = null;
         try {
-            br = new BufferedReader(new InputStreamReader(new FileInputStream("C:\\TMP\\TASK_1.txt"),"cp1251"));
+            br = new BufferedReader(new InputStreamReader(new FileInputStream("C:\\TMP\\TASK_4.txt"),"cp1251"));
             Out = new PrintWriter("C:\\TMP\\TASK_6.txt","cp1251");
             int lineCount = 0;
             String s;
@@ -17,7 +17,8 @@ public class chapter_04_08_10 {
             }
         } catch (IOException e){
             System.out.println("Arghhh" + e);
-        } finally{
+        }
+        finally{
             br.close();
             Out.flush();
             Out.close();
