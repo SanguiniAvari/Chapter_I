@@ -4,7 +4,7 @@ import java.io.*;
 import java.util.Scanner;
 
 public class chapter_04_08_5 {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException{
         Scanner sc = new Scanner(System.in);
         System.out.print("Введите имя файла:\t");
         String fname = sc.nextLine();
@@ -27,8 +27,7 @@ public class chapter_04_08_5 {
                 while(true) {
                     System.out.println(dIn.readUTF());
                 }
-        } catch (Exception e) {
-            System.out.println("" + e);
+        } catch (IOException e) {
         }
     }
 }
