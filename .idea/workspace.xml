@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71d43928-8f1f-416f-adc2-f8246bee1035" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LR_8/chapter_04_08_11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TIMUS/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR_8/chapter_04_08_12.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR_8/chapter_04_08_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LR_8/chapter_04_08_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR_8/chapter_04_08_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LR_8/chapter_04_08_5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LR_8/chapter_04_08_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LR_8/chapter_04_08_11.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -374,7 +371,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670692242520</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="лабораторная работа 8">
+      <created>1671049586018</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1671049586018</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -412,9 +416,9 @@
           <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LR_8/chapter_04_08_11.java</url>
-          <line>110</line>
-          <option name="timeStamp" value="24" />
+          <url>file://$PROJECT_DIR$/src/LR_8/chapter_04_08_12.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="27" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

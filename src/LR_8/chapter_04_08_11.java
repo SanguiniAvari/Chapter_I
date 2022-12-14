@@ -67,7 +67,7 @@ public class chapter_04_08_11 {
         }
         return res;
     }
-static boolean CanBOOL(char A){
+    static boolean CanBOOL(char A){
     //кода буква - значит правда
     if (A != '1' && A != '2' && A != '3' && A != '4' && A != '5' && A != '6' && A != '7' && A != '8' && A != '9' && A != '-'){
         return true;
