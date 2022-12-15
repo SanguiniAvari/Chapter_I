@@ -1,24 +1,22 @@
-//package TIMUS;
-//
-//import java.util.Scanner;
-//
-//public class T_04_1820 {
-//    public static void main(String[] args) {
-//        Scanner scanner = new Scanner(System.in);
-//        String a = scanner.nextLine();
-//        String[] A = a.split(" ");
-//
-//        int counter=Integer.parseInt(A[0].trim());
-//        int count=0;
-//
-//        while (true){
-//            if (counter>0){
-//                count +=2;
-//                counter-= Integer.parseInt(A[1].trim());
-//            } else {
-//                break;
-//            }
-//        }
-//            System.out.print(count);
-//    }
-//}
+package TIMUS;
+
+import java.util.Scanner;
+
+public class T_04_1820 {
+    public static void main(String[] args) {
+        Scanner in = new Scanner(System.in);
+
+        int n = in.nextInt();
+        int k = in.nextInt();
+
+        if (k>=n){
+            System.out.println(2);
+        } else {
+            if((n * 2) % k == 0){
+                System.out.println((n * 2) / k);
+            } else {
+                System.out.println(((n * 2) / k) + 1);
+            }
+        }
+    }
+}

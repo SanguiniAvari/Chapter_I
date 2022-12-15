@@ -2,9 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71d43928-8f1f-416f-adc2-f8246bee1035" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LR_8/chapter_04_08_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TIMUS/T_04_1001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TIMUS/T_04_1293.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TIMUS/T_04_1409.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TIMUS/T_04_1877.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TIMUS/T_04_2012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TIMUS/T_04_2100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TIMUS/input2100.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR_8/chapter_04_08_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LR_8/chapter_04_08_11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LR_8/chapter_04_08_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LR_8/chapter_04_08_12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TIMUS/T_04_1820.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TIMUS/T_04_1820.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TIMUS/T_04_2066.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TIMUS/T_04_2066.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,15 +56,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;ToolWindowHierarchy.ShowToolbar&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ToolWindowHierarchy.ShowToolbar": "false",
+    "last_opened_file_path": "C:/Users/PC/IdeaProjects/LR/src/TIMUS"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PC\IdeaProjects\LR\src\TIMUS" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\PC\IdeaProjects\LR\src\LR_1" />
       <recent name="C:\Users\PC\IdeaProjects\LR\src\LR_2" />
@@ -378,7 +390,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671049586018</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="лабораторная работа 8">
+      <created>1671052367640</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1671052367640</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -416,9 +435,9 @@
           <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LR_8/chapter_04_08_12.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="27" />
+          <url>file://$PROJECT_DIR$/src/LR_8/chapter_04_08_7.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="30" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
