@@ -5,9 +5,6 @@ import java.util.LinkedList;
 import java.util.Scanner;
 public class T_04_1880 {
 
-
-
-
         public static void main(String str[]) {
             Scanner input = new Scanner(System.in);
 
